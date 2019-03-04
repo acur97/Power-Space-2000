@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mundos
+  - naves
+  - Bala
+  - BalaBola
+  - BalaBola2
+  - asteroides
+  - enemiCat1
+  - EnemiCat1
+  - enemiCat2
+  - EnemiCat2
+  - BumMalos
+  - mira
+  - PuntoNave
+  - OST
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - Balas
+  - enemigos
+  - Finish
+  - asteroides
+  - nave
+  - BalaBola
+  - notocar
+  - mira
+  - effects
+  - AnotherUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
