@@ -2,9 +2,9 @@
 
 Juego estilo retro de naves espaciales, publicado en Play Store
 
-Video:
+Imagenes y videos del Proyecto:
 
-https://youtu.be/RfNv4tBywRI
+https://www.behance.net/gallery/97366297/POWER-SPACE-2000
 
 Aplicacion Play Store:
 
